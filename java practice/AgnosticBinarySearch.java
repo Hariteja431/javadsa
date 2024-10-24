@@ -1,4 +1,4 @@
-public class practice {
+public class AgnosticBinarySearch {
     public static void main(String[] args) {
         int[] arr = {1,3,5,8,31,39};
         int target = 7;
